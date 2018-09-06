@@ -1,0 +1,9 @@
+%module(directors = "1") testdemo
+%{
+#include "itreenode.h"
+#include "treenode.h"
+%}
+%include typemaps.i
+%include "itreenode.h"
+%include "std_string.i"
+%include "treenode.h"

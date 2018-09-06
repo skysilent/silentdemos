@@ -59,3 +59,10 @@
 /SwigDemo/x64/release/*.exp
 
 
+/CoroutineDemo/.vs
+/CoroutineDemo/Debug
+/CoroutineDemo/WindowFiber/Debug
+/SwigDemo/SwigDemo/x64
+
+/SwigDemo/SwigCharp/obj
+/SwigDemo/SwigCharp/bin
