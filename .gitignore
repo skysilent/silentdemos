@@ -1,0 +1,61 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/ShutDown/ShutDown.VC.VC.opendb
+/ShutDown/ShutDown.VC.db
+/ShutDown/ShutDown.sln
+/ShutDown/ShutDown/ShutDown.vcxproj.filters
+/ShutDown/ShutDown/ShutDown.vcxproj
+/ShutDown/ShutDown/Debug/vc140.pdb
+/ShutDown/ShutDown/Debug/vc140.idb
+/ShutDown/ShutDown/Debug/ShutDown.tlog/unsuccessfulbuild
+/ShutDown/ShutDown/Debug/ShutDown.tlog/ShutDown.lastbuildstate
+/ShutDown/ShutDown/Debug/ShutDown.tlog/link.write.1.tlog
+/ShutDown/ShutDown/Debug/ShutDown.tlog/link.read.1.tlog
+/ShutDown/ShutDown/Debug/ShutDown.tlog/link.command.1.tlog
+/ShutDown/ShutDown/Debug/ShutDown.tlog/CL.write.1.tlog
+/ShutDown/ShutDown/Debug/ShutDown.tlog/CL.read.1.tlog
+/ShutDown/ShutDown/Debug/ShutDown.tlog/CL.command.1.tlog
+/ShutDown/ShutDown/Debug/ShutDown.log
+/.gitattributes
+
+/SwigDemo/hooks
+/SwigDemo/.vs
+/SwigDemo/config
+/SwigDemo/HEAD
+/SwigDemo/objects
+/SwigDemo/x64/release/*.iobj
+/SwigDemo/x64/release/*.ipdb
+/SwigDemo/x64/release/*.pdb
+/SwigDemo/x64/release/*.exp
+
+
